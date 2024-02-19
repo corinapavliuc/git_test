@@ -1,0 +1,10 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+Tel-ran.     922     921 pty0     10:01:50 /usr/bin/bash
+Tel-ran.     991     990 pty2     11:03:04 /usr/bin/bash
+Tel-ran.     873       1 ?          Feb 14 /usr/bin/ssh-agent
+Tel-ran.     945     944 pty1     10:37:24 /usr/bin/bash
+Tel-ran.    1145     991 pty2     11:41:38 /usr/bin/ps
+Tel-ran.     944       1 ?        10:37:24 /usr/bin/mintty
+Tel-ran.     882       1 ?          Feb 14 /usr/bin/ssh-agent
+Tel-ran.     990       1 ?        11:03:04 /usr/bin/mintty
+Tel-ran.     921       1 ?        10:01:50 /usr/bin/mintty
